@@ -7,30 +7,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<link rel="shortcut icon" href="http://www.iconj.com/ico/0/j/0jfxz36x0g.ico" type="image/x-icon" />
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/cristianmarint/MotionGym">
-    <img src="docs/imgs/logo.png" alt="Logo" width="120" height="120">
-  </a>
-
-  <h3 align="center">Motion Gym</h3>
-
-  <p align="center">
-A open source gym management system build.
-    <br />
-    <a href="https://cristianmarint.github.io/MotionGym/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/cristianmarint/MotionGym/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/cristianmarint/MotionGym/issues">Request Feature</a>
-  </p>
-</p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -59,7 +35,7 @@ There are many of gym management systems instead of using one of those I decided
 <br>
 Of course, this project may not be current suilble for a big business but it will improve with time. keep in mind that it's in early development stateges. Therefore, if you want to get involve feel free to do so.
 
-[![Login & admin][login-admin]](https://github.com/cristianmarint/MotionGym)
+
 
 ### Built With
 * [Laravel](https://laravel.com)
@@ -102,22 +78,6 @@ Currently there are no useful example due to early stages.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-See the [open issues](https://github.com/cristianmarint/MotionGym/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
